@@ -1,0 +1,18 @@
+route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color
+15,lignes-d-azur,15,Port de Saint-Jean - Lycée Masséna,,3,https://ftp.lignesdazur.com/ligne_15.pdf,15B1AF,FFFFFF
+33,lignes-d-azur,33,Mont Boron - Collège Matisse,,3,https://ftp.lignesdazur.com/ligne_33.pdf,52AE32,FFFFFF
+38,lignes-d-azur,38,Trésorerie - Résidence des Baumettes,,3,https://ftp.lignesdazur.com/ligne_38.pdf,F6A320,FFFFFF
+44,lignes-d-azur,44,Square Bourdet par Le Château,,3,https://ftp.lignesdazur.com/ligne_44.pdf,FFFFFF,000000
+54,lignes-d-azur,54,Saint-Jeannet - Centre Commercial CAP3000 - Grand Arénas,,3,https://ftp.lignesdazur.com/ligne_54.pdf,F5A32F,FFFFFF
+57,lignes-d-azur,57,Las Planas / Sappia - Riquier,,3,https://ftp.lignesdazur.com/ligne_57.pdf,428ABF,FFFFFF
+64,lignes-d-azur,64,Saint-Pancrace - Urfé,,3,https://ftp.lignesdazur.com/ligne_64.pdf,35BEEB,FFFFFF
+70,lignes-d-azur,70,Urfé - CPAM Entrée,,3,https://ftp.lignesdazur.com/ligne_70.pdf,B77F26,FFFFFF
+71,lignes-d-azur,71,Corniche Bellevue - Gare Thiers,,3,https://ftp.lignesdazur.com/ligne_71.pdf,418ABF,FFFFFF
+75,lignes-d-azur,75,Hameaux de la Costière - Gare Thiers,,3,https://ftp.lignesdazur.com/ligne_75.pdf,27A737,FFFFFF
+L1,lignes-d-azur,L1,Hôpital Pasteur - Henri Sappia,,0,https://ftp.lignesdazur.com/ligne_1.pdf,D20A11,FFFFFF
+L2,lignes-d-azur,L2,Port Lympia -  Aéroport Terminal 2,,0,https://ftp.lignesdazur.com/ligne_2.pdf,1F488F,FFFFFF
+L3,lignes-d-azur,L3,Port Lympia - Saint-Isidore,,0,https://ftp.lignesdazur.com/ligne_3.pdf,00853E,FFFFFF
+99,lignes-d-azur,99,Jean Medecin - Jean Médecin,,3,https://ftp.lignesdazur.com/ligne_99.pdf,D069A4,000000
+08,lignes-d-azur,8+,Saint-Sylvestre - Palais des Expositions,,3,https://ftp.lignesdazur.com/ligne_8.pdf,FEC703,000000
+B,lignes-d-azur,B,Aéroport Terminal 2 - CADAM / Centre Administratif,,0,https://ftp.lignesdazur.com/ligne_B.pdf,FFDD00,000000
+12,lignes-d-azur,12+,Centre Commercial CAP3000 - Hôpital Pasteur,,3,https://ftp.lignesdazur.com/ligne_12.pdf,DE1381,FFFFFF
